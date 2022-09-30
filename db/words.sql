@@ -3,9 +3,9 @@ CREATE TABLE verbs (word TEXT NOT NULL);
 CREATE TABLE adjectives (word TEXT NOT NULL);
 
 INSERT INTO nouns(word) VALUES
-  ('cloud'),
-  ('elephant'),
-  ('gø language'),
+  ('auto'),
+  ('body'),
+  ('superstar'),
   ('laptøp'),
   ('cøntainer'),
   ('micrø-service'),
@@ -23,10 +23,10 @@ INSERT INTO nouns(word) VALUES
   ('smørrebrød');
 
 INSERT INTO verbs(word) VALUES
-  ('will drink'),
-  ('smashes'),
-  ('smøkes'),
-  ('eats'),
+  ('does think'),
+  ('passes'),
+  ('frees'),
+  ('bends'),
   ('walks tøwards'),
   ('løves'),
   ('helps'),
@@ -37,18 +37,18 @@ INSERT INTO verbs(word) VALUES
   ('will ship');
 
 INSERT INTO adjectives(word) VALUES
-  ('the exquisite'),
-  ('a pink'),
-  ('the røtten'),
+  ('the best'),
+  ('a yellowish'),
+  ('the fresh'),
   ('a red'),
-  ('the serverless'),
-  ('a brøken'),
+  ('the open'),
+  ('a fixed'),
   ('a shiny'),
   ('the pretty'),
   ('the impressive'),
   ('an awesøme'),
   ('the famøus'),
-  ('a gigantic'),
+  ('a babyish'),
   ('the gløriøus'),
   ('the nørdic'),
   ('the welcøming'),
