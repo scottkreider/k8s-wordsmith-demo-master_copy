@@ -1,3 +1,7 @@
+I have created a static version of this repo to test using this static application image for an example project. All credit for the application goes to: https://github.com/dockersamples/k8s-wordsmith-demo
+
+
+
 # Kubernetes Wordsmith Demo
 
 Wordsmith is the demo project shown at DockerCon EU 2017 and 2018.
