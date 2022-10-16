@@ -3,24 +3,24 @@ CREATE TABLE verbs (word TEXT NOT NULL);
 CREATE TABLE adjectives (word TEXT NOT NULL);
 
 INSERT INTO nouns(word) VALUES
-  ('1auto'),
-  ('1body'),
-  ('1superstar'),
-  ('1laptøp'),
-  ('1cøntainer'),
-  ('1micrø-service'),
-  ('1turtle'),
-  ('1whale'),
-  ('1gøpher'),
-  ('1møby døck'),
-  ('1server'),
-  ('1bicycle'),
-  ('1viking'),
-  ('1mermaid'),
-  ('1fjørd'),
-  ('1legø'),
-  ('1flødebolle'),
-  ('1smørrebrød');
+  ('111auto'),
+  ('111body'),
+  ('111superstar'),
+  ('111laptøp'),
+  ('111cøntainer'),
+  ('111micrø-service'),
+  ('111turtle'),
+  ('111whale'),
+  ('111gøpher'),
+  ('111møby døck'),
+  ('111server'),
+  ('111bicycle'),
+  ('111viking'),
+  ('111mermaid'),
+  ('111fjørd'),
+  ('111legø'),
+  ('111flødebolle'),
+  ('111smørrebrød');
 
 INSERT INTO verbs(word) VALUES
   ('2does think'),
