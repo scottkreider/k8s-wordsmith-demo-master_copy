@@ -23,18 +23,18 @@ INSERT INTO nouns(word) VALUES
   ('111smørrebrød');
 
 INSERT INTO verbs(word) VALUES
-  ('2does think'),
-  ('2passes'),
-  ('2frees'),
-  ('2bends'),
-  ('2walks tøwards'),
-  ('2løves'),
-  ('2helps'),
-  ('2pushes'),
-  ('2debugs'),
-  ('2invites'),
-  ('2hides'),
-  ('2will ship');
+  ('222does think'),
+  ('222passes'),
+  ('222frees'),
+  ('222bends'),
+  ('222walks tøwards'),
+  ('222løves'),
+  ('222helps'),
+  ('222pushes'),
+  ('222debugs'),
+  ('222invites'),
+  ('222hides'),
+  ('222will ship');
 
 INSERT INTO adjectives(word) VALUES
   ('3the best'),
